@@ -10,8 +10,8 @@
 
 To run this project locally, you'll need:
 
-- A modern web browser
 - Internet access to load the p5.js library
+- life server can ben local
 
 ## Acknowledgments
 
