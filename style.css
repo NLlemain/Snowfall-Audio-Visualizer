@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    touch-action: none;
+}
+canvas {
+    display: block;
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #000;
+    }
+    canvas {
+        width: 100vw;
+        height: 100vh;
+    }
+}
